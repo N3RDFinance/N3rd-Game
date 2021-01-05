@@ -1,7 +1,7 @@
 {
-  "name": "gdevelop-open-game",
+  "name": "n3rd-game",
   "version": "1.0.0",
-  "description": "Build pipeline for GDevelop-Open-Game",
+  "description": "Build pipeline for n3rd-game",
   "main": "build.js",
   "scripts": {
     "web-build": "node build.js",
