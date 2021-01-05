@@ -1,0 +1,42 @@
+[
+	{
+		"title": "one",
+		"tags": "",
+		"body": "<<avatar nerd>> Yo! Ivan on tech is that you?\n<<avatar ivan>> Yes man. It's me but don't tell anyone!\n<<avatar nerd>> But why are you wearing this?\n<<avatar ivan>> I am disguised man, don't want to attract much attention\n<<avatar nerd>> Okay!\n<<avatar ivan >> I heard you are building on ethereum and trying to combine financial products and nft\n<<avatar nerd>> Yeah!\n<<avatar ivan>> Can I join the nerd gang as an advisor?\n<<avatar nerd>> Absolutely man, you are a true nerd!\n<<avatar ivan>> Be careful of the Haunted Big strong guys... These HAUNTED exchange owners are everywhere!! ",
+		"position": {
+			"x": -333,
+			"y": 160
+		},
+		"colorID": 0
+	},
+	{
+		"title": "two",
+		"tags": "",
+		"body": "<<avatar nerd>> CZ, is that you? Damn! You have changed\n<<avatar nerd>> You were such a cool Nerd back in the day...  \n<<avatar cz>> I am not your friend CZ, I took his soul and now i have his body! \n<<avatar cz>> Now, give me your precious NERD tokens or you would be next\n<<avatar nerd>> i'm not scared of you so i'm not giving you shit\n<<avatar nerd>> Liquidity is locked on Uniswap! \n<<avatar cz>> Poor little Nerd!\n<<avatar cz>> You don't understand, do you?\n<<avatar cz>> I have a whole Haunted army! so you can never win\n<<avatar nerd>> Let's see about that ",
+		"position": {
+			"x": -58,
+			"y": 179
+		},
+		"colorID": 0
+	},
+	{
+		"title": "three",
+		"tags": "",
+		"body": "<<avatar nerd>> Sam, is that you?\n<<avatar sam>> You stupid Nerd!\n<<avatar sam>> This is not your nerd-y friend Sam!\n<<avatar sam>> I told you i took his soul and i am using his body!\n<<avatar nerd>> Shame on you!\n<<avatar nerd>> Sam was one of my ultimate nerd idols...\n<<avatar nerd>> He also had a great hair and a very good exchange.\n<<avatar nerd>> I don't know what you are, but i will defeat you\n<<avatar nerd>> And save all my Nerd-y friends!\n<<avatar sam>> You've got no idea what you are going up against!\n<<avatar nerd>> And you have no idea about the nerd community!\n<<avatar nerd>> We have code!\n<<avatar nerd>> We have memes\n<<avatar nerd>> We have degen farmers!\n<<avatar nerd>> And we are growing everyday! ",
+		"position": {
+			"x": 155,
+			"y": 179
+		},
+		"colorID": 0
+	},
+	{
+		"title": "four",
+		"tags": "",
+		"body": "<<avatar ivan>> Congratulations Nerd, you have passed this level\n<<avatar ivan>> But you're journey is yet to begin..\n<<avatar ivan>> Make sure you build a strong community of nerds\n<<avatar ivan>> If you want to stand a chance against the haunted forces\n<<avatar ivan>> See you soon!\n<<avatar ivan>> To the moooo-on!",
+		"position": {
+			"x": 367,
+			"y": 179
+		},
+		"colorID": 0
+	}
+]
