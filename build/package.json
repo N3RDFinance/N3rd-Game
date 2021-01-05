@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gdevelop-game/GDevelop-Open-Game.git"
+    "url": "git+https://github.com/N3RDFinance/N3rd-Game.git"
   },
   "author": "",
   "license": "CC-BY-NC-4.0",
   "bugs": {
-    "url": "https://github.com/Gdevelop-game/GDevelop-Open-Game/issues"
+    "url": "https://github.com/N3RDFinance/N3rd-Game/issues"
   },
-  "homepage": "https://github.com/Gdevelop-game/GDevelop-Open-Game#readme",
+  "homepage": "https://github.com/N3RDFinance/N3rd-Game#readme",
   "dependencies": {
     "fs-extra": "^9.0.1",
     "gdexporter": "^2.3.101",
